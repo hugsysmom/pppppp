@@ -1,0 +1,6 @@
+{
+  "name": "SIGTRON Cloud AI Platform",
+  "description": "Enterprise AI Compute & GPU Infrastructure Cloud Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
